@@ -40,5 +40,6 @@ Solves the "hanging terminal" issue on macOS.
 ## 🛠 Installation
 
 ### Prerequisites
-1. **Python 3.8+**
-2. **Ollama:** Must be installed and running.
+1. **Ollama:** Must be installed and running.
+
+![OllamaFM Dashboard](screenshot.png)
