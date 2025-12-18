@@ -4,6 +4,10 @@ A lightweight (12mb), native macOS file manager powered by Ollama. Browse, searc
 # OllamaFM 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg) ![Status](https://img.shields.io/badge/status-stable-success.svg)
+![macOS Apple Silicon](img.shields.io) ![macOS M2](img.shields.io) ![Architecture aarch64](img.shields.io) [![macOS M2 compatible](img.shields.io)](www.apple.com)
+
+
+
 
 **OllamaFM** is a high-performance, asynchronous Terminal User Interface (TUI) file manager designed for developers. It combines classic file navigation with local AI intelligence, automated Git context, and smart cloud storage handling.
 
